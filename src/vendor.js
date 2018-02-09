@@ -1,4 +1,5 @@
 import 'babel-polyfill';
+import 'whatwg-fetch';
 import 'react';
 import 'react-dom';
 import 'prop-types';
